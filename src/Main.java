@@ -11,9 +11,12 @@ public class Main {
 //
 //        MinMax minMax = new MinMax();
 //        minMax.numbers(1, 5, 6, -1, 0);
-        Names names = new Names();
-        names.names("Vasyl","Petro");
 
+//        Names names = new Names();
+//        names.names("Vasyl","Petro");
+
+        Seasons seasons = new Seasons();
+        seasons.season(0);
 
     }
 
