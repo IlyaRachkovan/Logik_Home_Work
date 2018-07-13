@@ -6,8 +6,11 @@ public class Main {
 //        Smallest smallestNumber = new Smallest();
 //        smallestNumber.number(6,3,4,5);
 
-        LargestNumbers largest = new LargestNumbers();
-        largest.largesNubers(7, 5, 6, 7);
+//        LargestNumbers largest = new LargestNumbers();
+//        largest.largesNubers(7, 7, 6, 1);
+
+        MinMax minMax = new MinMax();
+        minMax.numbers(1, 5, 6, -1, 0);
 
     }
 
