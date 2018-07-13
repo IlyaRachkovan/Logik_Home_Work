@@ -8,9 +8,12 @@ public class Main {
 
 //        LargestNumbers largest = new LargestNumbers();
 //        largest.largesNubers(7, 7, 6, 1);
+//
+//        MinMax minMax = new MinMax();
+//        minMax.numbers(1, 5, 6, -1, 0);
+        Names names = new Names();
+        names.names("Vasyl","Petro");
 
-        MinMax minMax = new MinMax();
-        minMax.numbers(1, 5, 6, -1, 0);
 
     }
 
